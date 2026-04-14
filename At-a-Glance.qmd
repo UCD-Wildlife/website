@@ -1,0 +1,80 @@
+---
+title: "Research locations"
+---
+
+::: {style="text-align: justify;"}
+This map shows the locations of our projects, along with brief descriptions of the main research topics and study species. Zoom in on the region of interest and click on the pins to explore individual projects. Additional information is available through the Projects' page and related Publications.
+:::
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(leaflet)
+library(knitr) # <-- Added this to access the image conversion tool
+
+study_sites <- read.csv("study_species.csv", stringsAsFactors=TRUE) 
+study_sites <- na.omit(study_sites)
+
+# 1. Create a color palette function mapped to your specific categories
+project_pal <- colorFactor(
+  palette = c("darkgreen", "yellow", "orange"),
+  domain = c("Completed", "Field completed, ongoing publications", "Ongoing")
+)
+
+# 2. NEW STEP: Convert the local image paths to embedded Base64 data
+study_sites$img_data <- sapply(as.character(study_sites$image_url), function(path) {
+  if (file.exists(path)) {
+    return(knitr::image_uri(path))
+  } else {
+    return("") # Return empty string if the file isn't found
+  }
+})
+
+# UPDATED STEP: Build popup HTML with responsive image styling
+study_sites$popup <- paste0(
+  "<b>", study_sites$species, "</b><br>",
+  study_sites$description, "<br>",
+  ifelse(
+    study_sites$img_data == "", 
+    "", 
+    # Use max-width so it shrinks if needed, and height:auto to keep proportions
+    paste0("<img src='", study_sites$img_data, 
+           "' style='width: 100%; max-width: 150px; height: auto; display: block; margin-top: 5px; border-radius: 8px;'>")
+  )
+)
+
+# 4. Create the leaflet map
+m <- leaflet(study_sites) %>%
+  addProviderTiles(providers$CartoDB.Positron) %>%
+  
+  # Add color-coded pins
+  addCircleMarkers(
+    lng = ~long,
+    lat = ~lat,
+    color = ~project_pal(project_type), # Applies the palette directly
+    radius = 4,
+    fillOpacity = 0.8,
+    popup = ~popup
+  ) %>%
+  
+  # Add Legend for project types
+  addLegend(
+    "bottomright",
+    pal = project_pal,
+    values = ~project_type,
+    title = "Project Types",
+    opacity = 1
+  )
+
+# 5. Fit map bounds to show all study sites globally
+m %>% fitBounds(
+  lng1 = min(study_sites$long) - 10,
+  lat1 = min(study_sites$lat) - 10,
+  lng2 = max(study_sites$long) + 10,
+  lat2 = max(study_sites$lat) + 10
+)
+
+```
+

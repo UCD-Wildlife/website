@@ -1,0 +1,83 @@
+---
+title: "Publications"
+bibliography: references/works.bib
+nocite: '@*'
+csl: https://www.zotero.org/styles/science
+format:
+  html:
+    toc: true
+---
+
+::: {.columns}
+
+::: {.column width="20%"}
+![](Images/^11.jpg)
+![](Images/^12.jpg)
+![](Images/^22.jpg)
+![](Images/^23.jpg)
+:::
+
+::: {.column width="20%"}
+![](Images/^13.jpg)
+![](Images/^14.jpg)
+![](Images/^24.jpg)
+:::
+
+::: {.column width="20%"}
+![](Images/^15.jpg)
+![](Images/^16.jpg)
+![](Images/^26.jpg)
+:::
+
+::: {.column width="20%"}
+![](Images/^17.jpg)
+![](Images/^18.jpg)
+![](Images/^25.jpg)
+:::
+
+::: {.column width="20%"}
+![](Images/^19.jpg)
+![](Images/^20.jpg)
+![](Images/^21.jpg)
+![](Images/^27.jpg)
+:::
+
+:::
+
+
+<style>
+
+/* Improve spacing between publications */
+.csl-entry {
+  margin-bottom: 1.3em;
+  line-height: 1.4;
+}
+
+/* Slightly smaller journal text */
+.csl-entry i {
+  font-size: 0.95em;
+}
+
+/* Style links (DOI, PDF etc.) */
+.csl-entry a {
+  text-decoration: none;
+}
+
+.csl-entry a:hover {
+  text-decoration: underline;
+}
+
+/* Limit width for better readability */
+main {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+</style>
+
+## Journal Articles
+
+::: {.nocite}
+@*
+:::

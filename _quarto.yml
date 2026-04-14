@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "UCD Wildlife"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Welcome
+      - href: People.qmd
+        text: People
+      - href: Research.qmd
+        text: Projects
+      - href: At-a-Glance.qmd
+        text: Research locations
+      - href: Irish_deer.qmd
+        text: Irish deer hub
+      - href: Publications.qmd
+        text: Publications
+      - href: Contacts.qmd
+        text: Contacts & Funders
+        
+  page-footer:
+    center: |
+      Website created by **Simone Ciuti** using **R Markdown and Quarto**.   
+      This site does not use cookies. Last updated: **15 April 2026**.  
+      @2026 UCD Lab of Wildlife Ecology and Behaviour - all rights reserved. 
+
+format:
+  html:
+    theme:
+      dark: darkly
+      light: litera
+    css: styles.css
+    toc: true
+
+editor: visual
+

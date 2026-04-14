@@ -1,0 +1,42 @@
+site,lat,long,species,description,image_url,project_type
+site 1,-1.383829,35.040996,Masai giraffe,Population ecology and conservation using both satellite telemetry and road-based surveys,Images/_masaigiraffe.JPG,Ongoing
+site 2,53.357728,-6.333847,Fallow deer,The Phoenix Park longitudinal study (behavioural ecology and human-wildlife conflict),Images/_fallow.jpg,Ongoing
+site 3,53.30049,-7.769726,Badger,Satellite telemetry across badger density and management gradients (study sites in 7 different counties),Images/_badger.jpg,Ongoing
+site 4,-1.329134,102.573577,Orangutan,Impact of rehabilitation strategies on spatial behaviour after reintroduction,Images/_OU.png,Completed
+site 5,53.023475,-6.308716,Sika deer,"Density, behaviour, diet and impact across Ireland (DeerImpact project)",Images/_sika.png,Ongoing
+site 6,52.019916,-9.65769,Red deer,"Density, behaviour, diet and impact across Ireland (DeerImpact project)",Images/_red.png,Ongoing
+site 6a,53.547783,-9.850589,Red deer,"Density, behaviour, diet and impact across Ireland (DeerImpact project)",Images/_red.png,Ongoing
+site 5a,51.978453,-9.484551,Sika deer,"Density, behaviour, diet and impact across Ireland (DeerImpact project)",Images/_sika.png,Ongoing
+site 3a,53.834307,-7.363944,Badger,Trappability and density across Ireland using camera traps and AI,Images/_badger.jpg,Ongoing
+site 7,58.816514,-117.317092,Caribou,Resource selection response to pine beetle outbreaks,Images/_caribou.png,Completed
+site 8,54.447606,-116.657912,Moose,Resource selection response to pine beetle outbreaks,Images/_moose.png,Completed
+site 9,49.343521,-114.552218,Wolf,Impact on elk anti-predator behaviour (elk vigilance),Images/_wolf.png,Completed
+site 10,49.173543,-114.490207,Grizzly bear,Impact on elk anti-predator behaviour (elk vigilance),Images/_grizzly.png,Completed
+site 11,47.499384,-103.531444,Mule deer,Impact of oil fracking on population dynamics,Images/_muledeer.png,Completed
+site 12,52.506724,-8.146016,Fallow deer,"Density, behaviour, diet and impact across Ireland (DeerImpact project)",Images/_fallowdeer.png,Ongoing
+site 13,-18.683019,13.856603,Angolan giraffe,Social networks and movement ecology,Images/_NWgiraffe.jpg,Ongoing
+site 14,49.129084,-113.977094,Cougar,Impact of humans on movement ecology (particularly response to roads),Images/_cougar.png,Completed
+site 15,48.42085,4.661465,Roe deer,Eurodeer projects under Euromammals umbrella (across European countries),Images/_roedeer.png,Ongoing
+site 16,48.366014,8.153092,Capercaillie,Impact of mesopredator on range loss,Images/_capercaillie.png,Completed
+site 17,45.428945,7.345248,Alpine ibex,Impact of climate change on space use and behaviour,Images/_ibex.png,"Field completed, ongoing publications"
+site 18,53.314027,-6.253115,Fox,Urban movement ecology (and human-wildlife conflict),Images/_redfox.png,"Field completed, ongoing publications"
+site 19,45.06206,10.154736,Kuhl's pipistrelle,Impact of weather on body condition,Images/_Kuhlspipistrelle.png,Completed
+site 20,45.797062,11.661597,Alpine chamois,Population ecology,Images/_chamois.png,Completed
+site 21,-10.123808,-48.62047,Araguaian river dolphin,Population estimate using blimps and conservation,Images/_dolphin.png,Completed
+site 22,40.179065,9.338434,Mouflon,Behaviour and interactions with livestock,Images/_mouflon.png,Completed
+site 23,50.078134,14.331776,Wild Boar,Euroboar projects under Euromammals umbrella (across many European countries),Images/_wildboar.png,Ongoing
+site 24,49.465861,-114.11626,Elk,"Montane elk research programme (focus on elk and its interactions with courgars, wolves, and grizzlies)",Images/_elk.png,"Field completed, ongoing publications"
+site 25,-27.852787,-70.162793,South American grey fox,Human-wildlife conflict (currently being expanded to the other fox species),Images/_South American grey fox.png,Ongoing
+site 31,43.715414,10.327631,Fallow deer,"The San Rossore longitudinal study (sexual segregation, mating behaviour, anti-predator behaviour, space use)",Images/_fallow.jpg,Completed
+site 27,52.354705,23.574284,Wolf,Impact of human disturbance on space use (and role of national parks),Images/_wolf.png,Completed
+site 28,43.59606,11.900731,Roe deer,Effect of hunting and wolf on spatial behaviour,Images/_cap.JPG,Completed
+site 29,51.855787,12.98174,Red deer,Impact of livestock on red deer resource selection,Images/_rd.JPG,Completed
+site 30,51.933616,5.496935,Red deer,Chronobiology compared to north american elk,Images/_rd.JPG,Completed
+site 32,49.276248,12.503466,Red and roe deer,Use of Lidar to predict understory vegetation and ungulate resource selection,Images/_rr.JPG,Completed
+site 33,53.198719,-7.215402,Badger and deer,Role in the bovine tuberculosis disease dynamics,Images/_bd.JPG,Ongoing
+site 34,44.934601,6.829451,Red deer,Migratory behaviour in the Alps,Images/_red.png,Completed
+site 35,53.160781,-6.204151,Sika deer,"Impact on biodiversity (soil ecology, invertebrates, vertebrates)",Images/_sika.png,Ongoing
+site 36,48.988374,13.383642,Red deer,Behaviour before and after wolf recolonization,Images/_rd.JPG,Ongoing
+site 37,57.14489,-104.3752,Caribou,Social networks (as part of a wider multi-species project),Images/_caribou.png,Completed
+site 38,41.60466,-107.9531,Pronghorn,Social networks (as part of a wider multi-species project),Images/_pro.JPG,Completed
+site 39,49.000807,13.402918,Lynx,Risk response towards roads,Images/_lynx.JPG,Completed

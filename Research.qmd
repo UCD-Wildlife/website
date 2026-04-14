@@ -1,0 +1,384 @@
+---
+title: "Projects"
+---
+
+```{=html}
+<style>
+
+/* Research project container */
+.project-block {
+  max-width: 900px;        /* keeps text readable */
+  margin-bottom: 60px;     /* space between projects */
+}
+
+/* Project image */
+.project-block img {
+  width: 100%;             /* large figure */
+  max-width: 900px;        /* limit width */
+  height: auto;
+  border-radius: 8px;      /* same style as people page */
+  margin-bottom: 15px;
+}
+
+/* Project description text */
+.project-block .project-text {
+  text-align: justify;
+  font-size: 1.05em;
+}
+
+/* Responsive behaviour */
+@media (max-width: 600px) {
+  .project-block img {
+    width: 100%;
+  }
+}
+
+</style>
+
+```
+
+## *CURRENT PROJECTS*
+
+<style>
+.project {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 60px;
+  text-align: justify;
+}
+
+.project img {
+  border-radius: 8px;
+}
+</style>
+
+### DeerImpact (2024-2029)  
+**Assessing the impact of deer in Irish ecosystems to inform evidence-based management and policy** *funding: DAFM* 
+
+::: {.project}
+
+![](images/deerimpact.JPG){fig-align="center" width="50%"}
+
+Building on our previous DAFM-funded projects (SMARTDEER and BioDEERversity), our new multidisciplinary initiative (involving University College Dublin, Maynooth University, Atlantic Technical University, University College Cork) aims to **define national deer population targets** that protect Irish biodiversity while sustaining healthy herds. In collaboration with key stakeholders, we are establishing a **nationwide network of monitoring stations** focused on deer hotspots and multi-species areas (red, sika, and fallow deer). To empower policymakers with empirical data, our methodology includes:  
+- **Density Estimation**: Using spatial capture-recapture (faecal DNA) and camera traps to accurately determine deer populations. 
+
+![](images/CT.JPG){fig-align="center" width="50%"} 
+
+- **Diet and Behaviour Analysis**: Utilizing genetic barcoding to study Ireland's three deer species, focusing on inter-species competition and resulting habitat damage.  
+
+![](images/skd.JPG){fig-align="center" width="50%"}  
+
+- **Impact Measurement**: Assessing forest browsing (tree survival, growth rate) and grassland yield relative to deer density.  
+
+![](images/damage.JPG){fig-align="center" width="50%"}  
+
+By directly linking deer density to ecosystem impact, we will recommend precise target populations across Ireland. We sincerely thank our partners for their ongoing support, monitoring site access, and valuable feedback. 
+
+
+:::
+
+### BioDEERversity2 (2024-2029)  
+**Disentangling the mechanism by which locally abundant deer populations can affect biodiversity** *funding: Research Ireland (SFI/IRC)*
+
+::: {.project}
+
+![](images/biod2.JPG){fig-align="center" width="80%"}
+
+Led by **Colin Brock**, BioDEERversity2 is our newly launched research initiative focused on the ecological consequences of locally abundant, non-native sika deer populations. This project investigates how intense browsing by these deer manipulates and alters woodland understory vegetation, triggering a cascading effect throughout the ecosystem. Specifically, we are examining how these deer-driven habitat modifications impact broader local biodiversity, with a primary focus on the resulting effects on native birds, small mammals, and invertebrates. By studying these complex interactions, BioDEERversity2 aims to provide a clearer understanding of **how invasive deer populations reshape forest environments** and influence the survival of the diverse species that rely on a healthy, structurally intact understory.  
+
+
+:::
+
+
+### Moving Badgers (2025-2027)
+**Tracking (using satellite telemetry) and simulating (using agent-based models) badgers across Ireland to unravel their role in bovine tuberculosis disease dynamics across Irish ecosystems** *funding: DAFM* 
+
+::: {.project}
+
+![](images/info1.png){fig-align="center" width="80%"}  
+
+Moving Badgers investigates the role of badgers in bovine tuberculosis (bTB) disease dynamics across Irish ecosystems by studying their movements and interaction rates. Currently, the specific contact dynamics between different badger clans and cattle remain largely unknown. To bridge this gap, we are **tracking 100+ badgers** using state-of-the-art, high-resolution GPS, LoRaWAN, and Bluetooth technology. By analyzing how environmental factors and population density influence badger space use and contact rates, we will combine our tracking data with farm outbreak records to build **highly precise predictive models**. Ultimately, this project aims to forecast disease transmission risks and provide policymakers with clear, data-driven guidance for targeted vaccination efforts. **Levi Custer** is currently leading the field operations of this very challenging and key project expected to boost the chances to curb bTB in Ireland.  
+
+![](images/abms.jpg){fig-align="center" width="80%"}
+
+
+Concurrently, our Agent-based models (ABMs) developed by **Kilian Murphy** will evaluate the epidemiological impact of varying bTB management strategies—specifically culling, vaccination, or no intervention—on Irish badger populations. By integrating these simulations with our active field research, we will predict how badger metapopulation dynamics and infection levels shift under different scenarios. Ultimately, this approach aims to provide policymakers with tangible, multi-scale evidence to optimize future bTB management and actively reduce the risk of future outbreaks.
+
+:::
+
+### Badger density and trappability (2025-ongoing)
+**Estimating key badger population parameters to evaluate the effectiveness of the bovine tuberculosis vaccination program** *funding: Research Ireland (SFI/IRC)*
+
+::: {.project}
+
+![](images/bdg.jpg){fig-align="center" width="80%"}
+
+This project is led by **Aaron Gaffney** and centers on integrating camera trap data, machine learning techniques, and extensive historical governmental datasets to estimate the **population densities of European badgers across Ireland**. A key component of this work involves evaluating the **trappability** of badgers, particularly within the context of managing Bovine Tuberculosis, a significant issue in agricultural and wildlife health. By combining innovative analytical approaches with applied ecological research, this research aims to generate robust, evidence-based insights that can inform more effective conservation strategies and vaccination programs for this legally protected species. Ultimately, this work seeks to contribute to the development of a comprehensive, quantitative, and spatially explicit national distribution map of badgers in Ireland, providing critical data to support sustainable wildlife management and policy decisions.  
+
+
+:::
+
+
+### Giraffe ecology and conservation (2018 - ongoing) 
+**Improving the conservation of the four species of giraffe across the African continent** *funding: Giraffe Conservation Foundation and UCD*
+
+::: {.project}
+
+![](images/giraf.jpeg){fig-align="center" width="80%"}
+
+We work closely with the [Giraffe Conservation Foundation](https://giraffeconservation.org/) to advance the conservation of giraffe across the **four recently recognised species** throughout the African continent. Our research integrates behavioural ecology, movement analysis, and large-scale comparative approaches to better understand how **giraffe populations persist in increasingly fragmented landscapes**. In **Namibia**, we focus on the Angolan giraffe in the Namib Desert, combining direct behavioural observations with satellite telemetry to investigate movement ecology and social structure in this extreme environment. These data provide critical empirical insights to inform future conservation strategies.
+
+![](images/gir1.jpg){fig-align="center" width="80%"}
+
+In Kenya, **Adams Kipchumba** is leading research on Masai giraffe in southern Kenya as part of his PhD, with a focus on estimating population abundance, identifying key threats, and understanding how fencing influences movement patterns. By developing connectivity models, this work aims to improve landscape permeability and facilitate movement between subpopulations.
+
+![](images/gir2.jpg){fig-align="center" width="80%"}
+
+Across **all four giraffe species**, we are also examining variation in **pelage patterns** in relation to genetic and morphometric differences, as well as investigating broader **movement syndromes** to understand how species and populations differ in their spatial ecology. Together, these integrated efforts are designed to generate the scientific evidence needed to guide effective, data-driven giraffe conservation across Africa.
+
+
+Most recent publications:
+[Nature Ecology and Evolution 2024](https://www.nature.com/articles/s41559-024-02565-8)
+[biorxiv 2024](https://www.biorxiv.org/content/10.1101/2024.11.07.622426v1.abstract)
+[Behavioral Ecology and Sociobiology](https://link.springer.com/article/10.1007/s00265-022-03167-9)
+[Wildlife Biology 2020](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.2981/wlb.00669)
+:::
+
+
+### Phoenix Park Fallow deer (2018-ongoing)  
+**Using the Phoenix Park fallow deer as a model population to investigate fundamental questions in behavioural ecology and the consequences of human–wildlife interactions.***funding: OPW*
+
+::: {.project}
+
+![](images/fawn2018.jpg){fig-align="center" width="80%"}
+
+The research projects we are conducting in Phoenix Park are innovative, original, and designed to transform how wildlife is monitored, observed, managed, and conserved. The insights gained here have the potential to reshape wildlife monitoring and management practices across a wide range of ecological contexts globally. A key example is our development of novel, non-invasive approaches to estimate body size, weight, and horn and antler dimensions in large herbivores using remote photogrammetry—the extraction of real-world measurements from photographic data.
+
+![](images/fawnt.jpg){fig-align="center" width="80%"}
+
+Students involved in our fallow deer research are working at the forefront of technological advances, addressing emerging human–wildlife conflicts in urban environments, and quantifying behaviour at an unprecedented level of detail. In doing so, we are actively training the next generation of wildlife biologists and managers. We have established the foundation for a unique longitudinal study, with over 75% of the fallow deer population individually identifiable through distinctive colour-coded ear tags. This enables a diverse range of research projects, including studies on links between animal personality and life-history strategies, methods for accurately counting deer in peri-urban landscapes, and patterns of sexual segregation.
+
+![](images/2004f.jpg){fig-align="center" width="80%"}
+
+In addition, we are leading the first empirical investigation into the ecological and behavioural impacts of tourists feeding deer. Alongside this, we are testing the effectiveness of various management interventions aimed at reducing wildlife feeding, helping to develop new, evidence-based approaches for addressing human–wildlife interactions in increasingly urbanised environments.
+
+Most recent publications:
+[Behavioral Ecology 2026](https://academic.oup.com/beheco/advance-article/doi/10.1093/beheco/arag034/8606989?guestAccessKey=)
+[Integrative Zoology 2026](https://onlinelibrary.wiley.com/doi/full/10.1111/1749-4877.70085)
+[People and Nature 2026](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.70222)
+[Animal Behaviour 2025](https://www.sciencedirect.com/science/article/abs/pii/S0003347225002623)
+[Royal Society Open Science 2025](https://royalsocietypublishing.org/rsos/article/12/8/250159/235310)
+[Journal of Mammalogy 2025](https://academic.oup.com/jmammal/article/106/3/712/7953880?guestAccessKey=)
+[European Journal of Wildlife Research 2024](https://link.springer.com/article/10.1007/s10344-024-01879-z)
+[Emerging Infectious Diseases 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11286063/)
+[Royal Society Open Science 2024](https://royalsocietypublishing.org/rsos/article/11/3/231470/92565)
+[Royal Society Open Science 2024](https://royalsocietypublishing.org/rsos/article/11/3/231470/92565)
+
+:::
+
+
+### Wildlife international monitoring (2016-ongoing)  
+**Wildlife monitoring and research networks across Europe: Snapshot Europe/Ireland, Euromammals (Eurodeer, Euroboar, Eurolynx), Bavarian Forest National Park** *funding: various founding sources, including Research Ireland (SFI/IRC)*
+
+::: {.project}
+
+![](images/euromammals.jpg){fig-align="center" width="80%"}
+
+Our research is closely embedded within collaborative, large-scale initiatives that aim to better understand mammal ecology across Europe. We are active members of the Euromammals network, led by Francesca Cagnacci, contributing to a range of projects focused on key species such as roe deer, red deer, wild boar, wolves, and lynx.
+
+We also play a leading role in Snapshot Europe, with Adam Smith coordinating the Irish chapter. This initiative brings together researchers across the continent in a standardized camera-trapping effort, supported by the Max Planck Institute of Animal Behaviour and linked to Snapshot USA, to generate comparable data on mammal populations at an unprecedented scale.
+
+In parallel, through collaborations including work with the Bavarian Forest National Park, we investigate mammal communities across Europe using a combination of camera trapping and satellite telemetry. This research focuses on how predators such as lynx, wolves, and foxes interact with prey species like deer and wild boar, examining their space use, habitat selection, movement behaviour, and responses to human pressures. Together, these efforts contribute to a more integrated understanding of wildlife dynamics in rapidly changing European landscapes.
+
+Most recent publications:
+[Landscape Ecology 2026](https://link.springer.com/article/10.1007/s10980-026-02301-6)
+[Journal of Environmental Management 2025](https://www.sciencedirect.com/science/article/pii/S0301479725041283)
+[Behavioral Ecology 2025](https://academic.oup.com/beheco/article-abstract/36/4/araf036/8153034)
+[Oikos 2024](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/oik.10433)
+
+
+:::
+
+
+### Urban Animal Network (2025-ongoing) 
+**Interreg North-West Europe** *funding: EU Interreg*
+
+::: {.project}
+
+![](images/urban.jpg){fig-align="center" width="80%"}
+
+University College Dublin, represented by Adam Kane and Simone Ciuti, joined the URBAN Interreg project aimed at improving urban habitats for wildlife across North-West Europe. The project addresses declines in native mammals and amphibians by supporting cities in becoming safer, more connected environments for biodiversity.It develops practical tools and solutions to enhance wildlife movement through urban airspace, tree canopies, shrub layers, and waterways by improving habitat connectivity and reducing barriers. Across seven countries, partners test approaches in diverse urban settings, combining infrastructure changes with community engagement and citizen science to support monitoring and implementation.
+
+:::
+
+
+### Human-wildlife conflict across Chilean ecosystems (2025-ongoing) 
+*funding: Chilean national funding*
+
+::: {.project}
+
+![](images/darwin.jpg){fig-align="center" width="80%"}
+
+Dario Morera-Arce is leading a series of research projects in Chile focused on fox species, with the potential to expand to include pudu deer. This work aims to better understand the interactions and conflicts between native predators and rural human activities, with a strong emphasis on identifying practical, evidence-based strategies to promote coexistence between wildlife and local communities.
+
+Most recent publication:
+[Global Ecology and Conservation 2025](https://www.sciencedirect.com/science/article/pii/S2351989425000010)
+
+:::
+
+
+## *FORMER PROJECTS*
+
+### Wildlife and bovine tuberculosis
+**The effect of wildlife host hotspots on bovine tuberculosis (bTB) risk dynamics in a disturbance landscape** *funding: DAFM & UCD*  
+
+::: {.project}
+
+![](images/past_badger.JPG){fig-align="center" width="35%"}
+
+We conducted several projects to better understand the **dynamics of bovine TB in wildlife**, focusing on how land-use change and wildlife management influenced disease persistence in wild populations and its links to outbreaks in cattle on farms. **Virginia Morera-Pujol** developed multi-level Bayesian models to predict **badger distribution** and density across Ireland, helping to clarify how body condition and local abundance were related to the risk of bTB occurrence and spread. Meanwhile, **Kilian Murphy** built Ireland’s first **agent-based model** for badgers, simulating movement patterns and estimating contact rates with cattle under different climate, land-use, and wildlife management scenarios.  
+
+Most recent publications:
+[Landscape ecology 2026](https://link.springer.com/article/10.1007/s10980-026-02319-w)
+[Agriculture, Ecosystems &  Environment 2025](https://www.sciencedirect.com/science/article/pii/S0167880925000933)
+[Biorxiv 2025](https://www.biorxiv.org/content/10.1101/2025.11.10.687598v1.abstract)
+
+:::
+
+
+
+### BioDEERversity1
+**Disentangling the impact of locally abundant deer populations on biodiversity** *funding: DAFM*   
+
+::: {.project}
+
+![](images/past_biodiversity1.JPG){fig-align="center" width="35%"}
+
+The bioDEERversity project examined the **effects of deer on biodiversity** in the Wicklow Mountains and Dublin Mountains, where sika deer reached the highest relative densities in the country. It assessed impacts across multiple ecological components—soil (biotic and abiotic, including invertebrates, fungi, and bacteria), plant communities, mammals (via camera traps), and birds (via acoustic monitoring)—by comparing areas with different deer densities. The project engaged a wide range of stakeholders, including hunters, farmers, foresters, landowners, government agencies, and citizens, all essential to its success. **Colin Brock** led the fieldwork and coordinated on-the-ground operations.
+
+Most recent publication:
+[European Journal of Soil Ecology 2026](https://www.sciencedirect.com/science/article/pii/S116455632600021X)  
+:::
+
+
+
+
+
+### SMARTDEER
+**First quantitative assessment of deer distribution and relative density across Ireland** *funding: DAFM*
+ 
+::: {.project}
+
+![](images/past_smartdeer.JPG){fig-align="center" width="20%"}
+
+The project was designed to work collaboratively with stakeholders and for their benefit, leading the **first nationally coordinated initiative on deer in Ireland**. It collected and analysed empirical data nationwide to support evidence-based management decisions. Prior to SMARTDEER, up-to-date information on the distribution and population density of the three main deer species was lacking, and there was no coordinated national system for data collection. The project addressed these gaps by testing innovative tools—such as smartphone applications and digital mapping surveys—enabling real-time national deer monitoring for the first time. Although the funded phase of the project has concluded and key findings were disseminated through scientific publications and outreach, ongoing data analysis continues to generate new insights to inform deer management and conservation in Ireland.
+
+Most recent publications:
+[European Journal of Wildlife Research 2025](https://link.springer.com/article/10.1007/s10344-025-01954-z)
+[Landscape Ecology 2023](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.2924)
+[Ecography 2022](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/ecog.06451)
+
+:::
+
+### Social networks in animal society  
+**Understanding the impacts of human disturbances on social networks, while advancing the development of new analytical approaches** *funding: Research Ireland (SFI/IRC)*
+
+::: {.project}
+
+![](images/past_sna.png){fig-align="center" width="100%"}
+
+**Kim Conteddu and Prabhleen Kaur** developed new tools to estimate social networks in animal societies, expanding the use of these approaches to address key 21st-century challenges. Their work focused on understanding how human disturbance, land-use change, and climate change influence animal sociality, with implications for epidemiology and zoonotic disease spread.Prabhleen published the **R package aniSNA**, and together they established novel protocols enabling ecologists to infer social networks of entire populations from relatively small samples, such as subsets of individuals monitored via satellite telemetry.
+
+Most recent publications:
+[Behavioral Ecology and Sociobiology 2025 ](https://link.springer.com/article/10.1007/s00265-025-03586-4)
+[Movement Ecology 2024](https://link.springer.com/article/10.1186/s40462-024-00494-6)
+
+:::
+
+### Fox urban and rural ecology
+**Movement and foraging ecology of foxes across urbanization gradients, with a particular focus on the use of artificial food sources.** *funding: Research Ireland (SFI/IRC) and ATC Massa*
+
+::: {.project}
+
+![](images/past_fox.JPG){fig-align="center" width="35%"}
+
+We conducted two projects on fox movement ecology. The first—Fox in the Hill—was carried out in collaboration with ATC Massa and **Paolo Bongi** to monitor foxes in the Lunigiana hills. The project aimed to characterise fox hunting strategies in relation to prey density and availability. The second project—Fox in the City—was conducted in Dublin by **Holly English** in collaboration with Dublin City Council. It investigated fox foraging ecology along an urban gradient from the city centre to suburban areas. **Both studies employed advanced biologging technologies**, including high-frequency accelerometers, magnetometers, and GPS transmitters, generating highly detailed data on fox hunting behaviour in both rural and urban environments.
+
+Most recent publications:
+[Ecology and Evolution 2026](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.72656)
+[Veterinary Anaesthesia and Analgesia 2025](https://www.sciencedirect.com/science/article/abs/pii/S146729872500220X)  
+
+:::
+
+### Montane elk project, AB, Canada
+**One of the largest satellite telemetry projects of its time, monitoring elk, cougars, wolves, and grizzlies in a landscape heavily used by industry and recreational vehicles.** *funding: various (mainly Canadian NSERC)* 
+
+::: {.project}
+
+![](images/past_montane.jpg){fig-align="center" width="35%"}
+
+This project, led by Mark Boyce, was carried out across the Prairie and Rocky Mountains, and disentangled the impacts of human disturbance on wildlife ecology and behaviour.  
+
+Most recent publications:
+[Nature Ecology and Evolution 2024](https://www.nature.com/articles/s41559-024-02565-8)
+[Movement Ecology 2024](https://link.springer.com/article/10.1186/s40462-024-00494-6)
+[Global Ecology and Conservation 2020](https://www.sciencedirect.com/science/article/pii/S2351989420307277)
+[Ecography 2016](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/ecog.02881)  
+
+:::
+
+### North Dakota Mule deer
+**Mule deer population dynamics in a landscape affected by oil fracking operations** *funding: North Dakota Game and Fish department*
+
+::: {.project}
+
+![](images/past_muledeer.JPG){fig-align="center" width="35%"}
+
+This study examined mule deer population dynamics in an area of North Dakota heavily impacted by decades of oil and gas extraction, including large-scale fracking operations in the Bakken formation. It was conducted in collaboration with Mark Boyce, William Jensen, Kilian Murphy, and David Roberts.
+
+Most recent publications:
+[Ecology and Evolution 2023](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9976)
+[The Journal of Wildlife Management 2015](https://wildlife.onlinelibrary.wiley.com/doi/abs/10.1002/jwmg.956)  
+
+:::
+
+### San Rossore Fallow deer
+**One of the longest longitudinal studies in Europe**  *funding: various (mainly Italian ministry of education)*
+
+::: {.project}
+
+![](images/past_SR.JPG){fig-align="center" width="35%"}
+
+We studied feeding ecology, sexual segregation, and mating behaviour in the lekking fallow deer population of San Rossore, Italy, for over 20 years. The project began in the mid-1990s and provided long-term insights into male mating success within the lek (mating arena).
+
+Most recent publication:
+[Behavioral Ecology 2016](https://academic.oup.com/beheco/article-abstract/27/5/1522/1744684)  
+
+:::
+
+### Tocatins river dolphins
+**Assessing the population status of a recently discovered river dolphin species**  *funding: German DAAD and Araguaia NGO*
+
+::: {.project}
+
+![](images/past_dolph.JPG){fig-align="center" width="35%"}
+
+Wildlife conservation and management in Cantão State Park (IUCN Category II), in the state of Tocantins, central Brazil. Our most recent work there helped test a new aerial survey method for river dolphins. The project was conducted in collaboration with the Araguaia NGO.  
+Final result published here:
+[Ecosphere 2017](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.1912)  
+
+:::
+
+### Sumatran orangutans
+**Assessing the spatial behaviour of rehabilitated and reintroduced orangutans.** *funding: Frankfurt Zoological Society*
+
+::: {.project}
+
+![](images/past_OU.jpg){fig-align="center" width="35%"}  
+
+We worked closely with researchers from the University of Freiburg, Germany, to assess the behaviour of reintroduced orangutans at the Frankfurt Zoological Society (FZS) station in the Bukit Tigapuluh ecosystem, in Jambi and Riau provinces, Central Sumatra, Indonesia.  
+Final result published here:
+[PlosOne 2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215284)
+
+:::

@@ -1,0 +1,190 @@
+---
+title: "Irish Deer hub"
+---
+
+
+```{=html}
+<style>
+
+/* Research project container */
+.project-block {
+  max-width: 900px;        /* keeps text readable */
+  margin-bottom: 60px;     /* space between projects */
+}
+
+/* Project image */
+.project-block img {
+  width: 100%;             /* large figure */
+  max-width: 900px;        /* limit width */
+  height: auto;
+  border-radius: 8px;      /* same style as people page */
+  margin-bottom: 15px;
+}
+
+/* Project description text */
+.project-block .project-text {
+  text-align: justify;
+  font-size: 1.05em;
+}
+
+/* Responsive behaviour */
+@media (max-width: 600px) {
+  .project-block img {
+    width: 100%;
+  }
+}
+
+</style>
+
+```
+
+## *Key facts and findings*
+
+<style>
+.project {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 60px;
+  text-align: justify;
+}
+
+.project img {
+  border-radius: 8px;
+}
+</style>
+
+::: {style="text-align: justify;"}
+This page is dedicated to our **deer research projects across Ireland (SMARTDEER, BioDEERversity1, DeerImpact, BioDEERversity2, and the Phoenix Park longitudinal study)**, mainly funded by the Department of Agriculture, Food, and the Marine (DAFM), Research Ireland (formely Science Foundation of Ireland and Irish Research Council), and the Office of Public Works (OPW). Our primary objective here is to deliver **clear, understandable, and accessible results** specifically tailored for our **key stakeholders**. By translating complex scientific data into lay terms, we aim to have a direct and meaningful impact on the policy and practical management of Irish deer populations and their related ecosystems.
+:::
+
+![](images/reds.JPG){fig-align="center" width="100%"}
+
+### Deer distribution and relative density
+
+::: {.project}
+
+![](images/Vdens.png){fig-align="center" width="100%"}
+The **SMARTDEER project** was Ireland's first nationwide effort to track and map deer populations, designed specifically to work hand-in-hand with local land managers. By gathering real-world data, the team has created **highly detailed maps** showing exactly where Ireland's three main deer species—sika, fallow, and red deer—live. These maps show what is known as "relative density," meaning they highlight the hotspots where deer are most concentrated compared to the rest of the country, as well as which specific species dominate those areas. Land managers (both public and private) are already using this valuable information to make smarter, science-backed decisions for the land they are responsible for. While these maps give us a great picture of where the hotspots of deer are, we do not have the exact headcounts just yet; to get the precise numbers of deer in these areas, we are waiting on the results of a separate, ongoing project called DeerImpact.
+
+
+:::
+
+### Deer expansion over the last decades
+
+::: {.project}
+
+::: {layout-ncol=3}
+![](images/red__gif.gif){fig-align="center"}
+
+![](images/sika_gif.gif){fig-align="center"}
+
+![](images/fallow_gif.gif){fig-align="center"}
+:::
+
+Building on our previous work, we recently dug into 20 years of hunting records from the National Parks and Wildlife Service to track how **deer populations have grown and moved across Ireland over time**. To map this out accurately, we looked at hunting success rates while carefully factoring in the actual number of licensed hunters on the ground. You can see the results in the animations above—just keep in mind that the scale of 0 to 6 actually represents anywhere from 0 to 400 sika deer within a given 5-by-5 kilometer block. We matched our maps to the years 2000, 2006, 2012, and 2018 because that is when we had detailed, national data showing changes in Ireland's landscapes and forests. As soon as the newest landscape data is released, we will be able to update our deer maps to the present day. If you look closely, you’ll notice a "spotty" pattern in certain areas. This is a classic sign of an expanding population that hasn't fully spread out yet. A prime example is the sika deer in Wicklow; they were introduced in the late 1800s, making them relatively new arrivals compared to fallow deer, which have been here for centuries. **These spotty patches show us that sika deer are actively on the move, pushing further out from their original hotspots**. We have to keep a very close eye on this expansion because **sika deer thrive in the Irish environment**—so much so that they are actively outcompeting and pushing out native red deer, a problem that has already happened in Wicklow and is currently unfolding in the south-west of Ireland.
+
+:::
+
+### Counting deer and assessing their impact
+
+::: {.project}
+
+![](images/liam_maps.JPG){fig-align="center" width="100%"}
+
+Our DeerImpact project—a major collaboration between UCD, ATU, MU, and UCC—is currently collecting **data across Ireland's biggest deer hotspots**, from the Wicklow Mountains to Connemara, Kerry, and soon the midlands. By working closely with hundreds of local hunters, farmers, and landowners, our team is actively tracking sika, red, and fallow deer. Even though we are right in the middle of the project, we already have two major breakthroughs to share:  
+- **Accurate camera tracking**: Thanks to incredible access granted by private landowners (see map above with camera trap locations accessed so far), we've proven that camera traps can reliably count deer populations. We are now creating simple guides so local stakeholders and newly formed deer management units can easily continue this monitoring long after the project ends.  
+- **Real-time environmental data**: We have rolled out innovative **"browsing stations"** nationwide. These stations track how much vegetation deer are eating in near real-time, giving land managers the immediate data they need to adjust culling quotas and protect the landscape exactly where it is taking the biggest hit.
+
+:::
+
+### Are deer involved in bTB spread?
+
+::: {.project}
+
+![](images/sikatb.JPG){fig-align="center" width="100%"}
+
+Bovine tuberculosis (bTB) remains a major challenge for the agricultural sector. The role of wild deer has historically been unclear. Our recent large-scale study investigated how different wildlife populations—including badgers, sika, red, and fallow deer—affect bTB outbreaks in cattle, especially when their habitats are disturbed by forestry operations like clearfelling.    
+**How much are deer involved?** Our research highlights that not all deer pose the same threat. Among the species studied, sika deer were significantly associated with a higher risk of bTB breakdowns in cattle. However, **this is not a widespread national crisis**; the heightened risk was primarily driven by a **massive "hotspot"** in County Wicklow with an extremely high abundance of sika deer. In areas where deer numbers are average or low, their contribution to bTB spread is minimal. Our study also revealed how landscape disturbances change risk. When forests are cut down (clearfelled), the immediate risk of bTB transmission to cattle actually decreased in areas populated by red and sika deer. Disturbance and habitat loss scatter the deer, pushing them away from nearby farms.  
+**The Bottom Line:** Wild deer do contribute to the spread of bTB, but they are not a universal, country-wide threat to cattle. The risk is heavily concentrated in extreme population "hotspots." Consequently, broad, indiscriminate eradication efforts would be inefficient. Instead, stakeholders should focus on targeted monitoring and the specific management of high-density deer populations—**particularly sika deer**—alongside ongoing badger management programs. By addressing these localized hotspots, policymakers and farmers can far more effectively reduce the transmission of bTB.
+
+:::
+
+
+### Hotspot of deer impact on vegetation
+
+::: {.project}
+
+![](images/colindam.jpeg){fig-align="center" width="100%"}
+
+The map above displays our predictive models for three types of tree damage—**bark stripping, browsing, and fraying**—caused by Ireland’s three main deer species. By combining relative deer density data from the SMARTDEER project with extensive forest damage records from the National Forest Inventory (NFI), we can confidently forecast where **forest damage is most likely to occur**. This predictive capability is a powerful tool for decision-makers, allowing them to pinpoint high-risk areas where deer population control should be prioritized to protect forestry assets and alleviate human-wildlife conflict.   
+Deer are a highly valued part of our natural ecosystem. However, human influences—**from a lack of natural predators, changing landscapes, and uncontrolled introductions to a warming climate**—have caused deer numbers to surge to unsustainable levels in specific parts of Ireland. While this isn't an issue everywhere, active management in these high-density areas is necessary to keep the herds healthy and ensure that people and wildlife can peacefully coexist.
+
+:::
+
+### Biodiversity in a (high-density) sika deer hotspot
+
+::: {.project}
+
+![](images/birds.JPG){fig-align="center" width="100%"}
+
+Deer populations have reached unsustainable levels in specific areas of Ireland—though data confirm this isn't happening everywhere. Our bioDEERversity projects reveal exactly how these high numbers alter entire forest ecosystems.       
+**The Soil**: High relative densities of sika deer overgraze/browse the forest understory. This may drives away native birds and small mammals, attracting species like foxes and domestic pets instead. This chain reaction cascades down, fundamentally altering the microscopic life in the soil.    
+**The Birds**: For forest birds, deer have a "Goldilocks" effect. Both zero deer and too many deer are harmful. Without deer, the understory becomes too densely overgrown; with too many, the understory is completely eaten away.    
+**The Bottom Line**: A sustainable number of deer maintains healthy forest undergrowth and boosts biodiversity. However, unsustainable numbers deplete ecosystems from the birds down to the soil microbes. Active management is essential to find this healthy balance.
+
+:::
+
+### Understanding diverse stakeholder values in human-deer conflicts
+
+::: {.project}
+
+![](images/conflict.JPG){fig-align="center" width="100%"}
+
+**Managing Wildlife is a Team Effort**   
+Wildlife management isn't just for the experts anymore—it now requires balancing the needs and opinions of everyone involved (the stakeholders). To see how this works in the real world, we have studied deer management in Ireland.  
+**Key Takeaways**  
+**The Main Problems:** Most people agree that having too many deer leads to two major issues: damage to nature (biodiversity loss) and an increased risk of car accidents.  
+**Different Perspectives:** People's priorities change depending on their background. For example, farmers, hunters, city-dwellers, and rural residents all view the deer problem slightly differently.  
+**Finding Common Ground:** Despite their differences, most groups agree on two big things: culling (reducing the deer population) is an important tool, and working together is the only way to solve the problem.  
+**The Bottom Line:** To successfully manage wildlife and reduce conflicts, we have to understand these different viewpoints. Moving forward requires better collaboration, investing in education, and learning from successful wildlife programs in other countries. At the end of the day, everyone wants **healthy** and **sustainable** deer populations.    
+[Additional reading](https://link.springer.com/article/10.1007/s10344-025-01954-z)
+
+:::
+
+
+
+### Deer are wildlife: keep an eye on diseases
+
+::: {.project}
+
+![](images/bugs.JPG){fig-align="center" width="100%"}
+
+We carried out a comprehensive review of over 400 studies which revealed that wild deer can carry up to **120 different zoonotic pathogens**. These diseases easily move between wild and domestic environments, highlighting that wildlife carry diseases transmissible both ways between animals and humans. **Proximity severely increases this risk**. Our Phoenix Park research showed that deer begging for human food are more likely to carry Toxoplasma, and during the pandemic, the herd actually contracted COVID-19 from humans. This risk extends to all species: feeding foxes in your garden, for instance, not only alters their natural behaviour but significantly increases the chances of disease transmission. Similarly, hunters must be cautious when handling raw meat, as potential disease risks are commonly underestimated. Understanding these disease baselines is crucial for policymakers to protect public health. **Ultimately, the safest approach for both us and the animals is simple: wildlife is wild, keep it wild and at a distance.**
+
+:::
+
+### Why we should not feed the deer
+
+::: {.project}
+
+![](images/deerpp.JPG){fig-align="center" width="100%"}
+
+Feeding the wild deer in Dublin's Phoenix Park—a principle that holds true for all wildlife across the globe—poses severe, **long-term threats to animal welfare and ecological balance**. Our recent research reveals numerous negative impacts from human feeding, most worryingly the fundamental **behavioural change of the herd**. Currently, 25% of the park's deer population accept food from people, and this alarming figure is steadily increasing because the **behaviour is transmitted from mothers to offspring**, perpetuating a dangerous cycle. Human-deer contact rate is so intense that deer in the park actually **contracted COVID-19 from humans during the pandemic**. Beyond the risk of disease transmission, feeding disrupts the animals' natural foraging instincts and permanently alters their digestive systems, reducing their ability to process their natural diet of grass and vegetation. Artificial "treats" like chocolate, crisps, and bread create a dependency that encourages animals to actively seek out humans, often leading to aggressive encounters and elevated stress when disturbed. Furthermore, this dependency disrupts critical social and reproductive dynamics. Male deer often receive low-quality junk food from the public, resulting in smaller antlers and reduced mating success, while constant human interruptions actively disrupt male-female reproductive encounters. Ultimately, **loving wildlife means leaving them alone**. To protect their health and preserve their natural behaviours, we must stop feeding wild animals and simply observe them from a respectful distance.
+
+:::
+
+### Managing people feeding the deer
+
+::: {.project}
+
+![](images/nofeed.JPG){fig-align="center" width="100%"}
+
+**The Problem**: driven by social media and a desire to connect with nature, **public feeding of wildlife is increasingly common**. However, these recreational interactions are dangerous—they alter animal behaviour, disrupt natural diets, and increase the risk of zoonotic disease transmission between animals and humans.    
+**The Study**: we conducted a 7-year longitudinal study in Phoenix Park, Dublin, evaluating how effectively management campaigns reduced the public feeding of wild fallow deer before, during, and after the COVID-19 pandemic.  
+**Key Findings**: while targeted management campaigns successfully reduced deer-feeding in the short term, the behavioural shifts were not permanent. Once a campaign ended or attention shifted, public feeding rebounded in subsequent years. Our study highlighted several barriers to lasting success, including constantly rotating park audiences, and a public sense of entitlement to interact with animals.  
+**Constant Vigilance is Required** The "if you leave it, you lose it" principle applies directly to human-wildlife conflict. Short-term campaigns are insufficient. Wildlife managers must secure long-term funding for continuous, sustainable public education and monitoring efforts. Effective management campaigns must be co-designed by wildlife practitioners, social scientists, and media communication experts to craft messaging that creates lasting behavioural change.
+:::
+
+
+![](images/funding.JPG){fig-align="center" width="100%"}
