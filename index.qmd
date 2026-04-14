@@ -42,7 +42,7 @@ We observe, monitor, and track wildlife to learn more about its ecology and beha
 
 <div>
 
-<img src="images/2.JPG" alt="Image 2"/>
+<img src="images/2.jpg" alt="Image 2"/>
 
 </div>
 
