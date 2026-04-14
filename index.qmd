@@ -2,13 +2,13 @@
 title: "Laboratory of Wildlife Ecology and Behaviour"
 ---
 
-![](Images/0.jpg){fig-align="center"}
+![](images/0.jpg){fig-align="center"}
 
 ::: {style="text-align: justify;"}
 Welcome to the Laboratory of Wildlife Ecology & Behaviour at **University College Dublin, Ireland**.
 :::
 
-![](Images/exploded%20lab%20logo.jpg){fig-align="center"}
+![](images/exploded%20lab%20logo.jpg){fig-align="center"}
 
 ::: {style="text-align: justify;"}
 We observe, monitor, and track wildlife to learn more about its ecology and behaviour, and improve its management and conservation within human-dominated landscapes. We work towards a better coexistence between wildlife and humans.
@@ -36,37 +36,37 @@ We observe, monitor, and track wildlife to learn more about its ecology and beha
 ::::::::: collage
 <div>
 
-<img src="Images/1.JPG" alt="Image 1"/>
+<img src="images/1.JPG" alt="Image 1"/>
 
 </div>
 
 <div>
 
-<img src="Images/2.JPG" alt="Image 2"/>
+<img src="images/2.JPG" alt="Image 2"/>
 
 </div>
 
 <div>
 
-<img src="Images/3.jpg" alt="Image 3"/>
+<img src="images/3.jpg" alt="Image 3"/>
 
 </div>
 
 <div>
 
-<img src="Images/4.JPG" alt="Image 4"/>
+<img src="images/4.JPG" alt="Image 4"/>
 
 </div>
 
 <div>
 
-<img src="Images/5.JPG" alt="Image 5"/>
+<img src="images/5.JPG" alt="Image 5"/>
 
 </div>
 
 <div>
 
-<img src="Images/6.JPG" alt="Image 6"/>
+<img src="images/6.JPG" alt="Image 6"/>
 ```{r}
 
 ```
@@ -78,4 +78,4 @@ We observe, monitor, and track wildlife to learn more about its ecology and beha
 Our research expertise spans animal ecology, movement and behavioural ecology, field-based research, satellite radiotracking and biologging, and advanced statistical modelling. We work closely with policymakers and government agencies to translate our research into evidence-based management and conservation solutions, with tangible impacts on the future management of wildlife populations at national and international scales.
 :::
 
-![](Images/sanrossore.JPG){fig-align="center" width="932"} ![](Images/Namibia.jpg){fig-align="center"}
+![](images/sanrossore.JPG){fig-align="center" width="932"} ![](images/Namibia.jpg){fig-align="center"}

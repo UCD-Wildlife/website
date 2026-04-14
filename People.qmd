@@ -66,7 +66,7 @@ title: "People"
 ### Principal Investigator
 
 :::: member-block
-![](Images/simone.jpg)
+![](images/simone.jpg)
 
 ::: bio-text
 **Simone Ciuti**\
@@ -87,7 +87,7 @@ I am a **quantitative behavioural ecologist** studying mainly large mammals in h
 
 ### Postdocs
 :::: member-block
-![](Images/^kil.jpg)
+![](images/^kil.jpg)
 
 ::: bio-text
 **Kilian Murphy**\
@@ -100,7 +100,7 @@ Kilian is currently developing a **badger Agent Based Model** to tackle current 
 ::::
 
 :::: member-block
-![](Images/^adam.jpg)
+![](images/^adam.jpg)
 
 ::: bio-text
 **Adam Smith**\
@@ -109,7 +109,7 @@ Adam has returned to Dublin after completing his PhD working on several camera-t
 ::::
 
 :::: member-block
-![](Images/^wanted.jpg)
+![](images/^wanted.jpg)
 
 ::: bio-text
 **WANTED!**\
@@ -123,7 +123,7 @@ We are looking for a postdoc (2 years contract) - particularly suited for a rece
 
 ### PhD students (UCD)
 :::: member-block
-![](Images/^liam.jpg)
+![](images/^liam.jpg)
 
 ::: bio-text
 **Liam Kirwan**\
@@ -132,7 +132,7 @@ Liam’s interests lie in using **empirical knowledge to improve biodiversity co
 ::::
 
 :::: member-block
-![](Images/^sarahR.jpg)
+![](images/^sarahR.jpg)
 
 ::: bio-text
 **Sarah Redmond**\
@@ -141,7 +141,7 @@ Sarah has been working in the lab for several years, after completing her Resear
 ::::
 
 :::: member-block
-![](Images/^adams.jpg)
+![](images/^adams.jpg)
 
 ::: bio-text
 **Adams Kipchumba**\
@@ -150,7 +150,7 @@ Adams takes a keen interest in animal movement ecology, conservation conflicts a
 ::::
 
 :::: member-block
-![](Images/^fiachra.jpg)
+![](images/^fiachra.jpg)
 
 ::: bio-text
 **Fiachra Corcoran**\
@@ -159,7 +159,7 @@ Fiachra's research to date has ranged from behavioral studies on fallow deer to 
 ::::
 
 :::: member-block
-![](Images/^colin.png)
+![](images/^colin.png)
 
 ::: bio-text
 **Colin Brock**\
@@ -168,7 +168,7 @@ Colin’s research so far has focused on the **impact of overabundant deer on Ir
 ::::
 
 :::: member-block
-![](Images/^cong.jpg)
+![](images/^cong.jpg)
 
 ::: bio-text
 **Cong Yu**\
@@ -179,7 +179,7 @@ Cong is leading a main project **linking deer neonatal personality to life-histo
 ### PhD students (cosupervised)
 
 :::: member-block
-![](Images/^anna.jpg)
+![](images/^anna.jpg)
 
 ::: bio-text
 **Anna David**\
@@ -189,7 +189,7 @@ Anna is working on the DeerImpact project and is based in Galway at Atlantic Tec
 
 
 :::: member-block
-![](Images/giacomo.jpg)
+![](images/giacomo.jpg)
 
 ::: bio-text
 **Giacomo Bovo Luisetto**\
@@ -198,7 +198,7 @@ Giacomo is a student of University of Padova (Italy) interested in the **eco-evo
 ::::
 
 :::: member-block
-![](Images/^beni.jpeg)
+![](images/^beni.jpeg)
 
 ::: bio-text
 **Benedikt Wiese**\
@@ -207,7 +207,7 @@ Benedikt is working on the DeerImpact project and is based in Galway at Atlantic
 ::::
 
 :::: member-block
-![](Images/^matteo.jpg)
+![](images/^matteo.jpg)
 
 ::: bio-text
 **Matteo Bastianelli**\
@@ -216,7 +216,7 @@ Matteo is particularly interested in studying mammalian **carnivore ecology and 
 ::::
 
 :::: member-block
-![](Images/^hannah.jpg)
+![](images/^hannah.jpg)
 
 ::: bio-text
 **Hannah Pepe**\
@@ -227,7 +227,7 @@ Hannah’s research is focused on the **effects of wolf recolonisation on red de
 ### Research Assistants
 
 :::: member-block
-![](Images/^sarahd.jpg)
+![](images/^sarahd.jpg)
 
 ::: bio-text
 **Sarah Darcy**\
@@ -237,7 +237,7 @@ Sarah is working on the **DeerImpact project** as a research assistant. She is i
 
 
 :::: member-block
-![](Images/^levi.jpg)
+![](images/^levi.jpg)
 
 ::: bio-text
 **Levi Custer**\
@@ -250,7 +250,7 @@ Levi is the heart and driving force of the **Moving Badger Project**. With a deg
 ### Research MSc students
 
 :::: member-block
-![](Images/^aaron.jpg)
+![](images/^aaron.jpg)
 
 ::: bio-text
 **Aaron Gaffney**\
@@ -264,7 +264,7 @@ Aaron is leading a critical research programme aimed at addressing key knowledge
 ### Lab visitors, internships & affiliated members
 
 :::: member-block
-![](Images/^conor.jpeg)
+![](images/^conor.jpeg)
 
 ::: bio-text
 **Conor Doyle**\
@@ -273,7 +273,7 @@ Conor is leading an innovative project using giraffe data collected by the Giraf
 ::::
 
 :::: member-block
-![](Images/^angela.jpg)
+![](images/^angela.jpg)
 
 ::: bio-text
 **Angela Roger Sequeira**\
@@ -282,7 +282,7 @@ Angela is working on the DeerImpact project, assisting with camera trap analyses
 ::::
 
 :::: member-block
-![](Images/2.jpg)
+![](images/2.jpg)
 
 ::: bio-text
 **Laura O'Neill & Liam Connell**\
@@ -291,7 +291,7 @@ Laura and Liam are permanent staff members in our School (technical officers) an
 ::::
 
 :::: member-block
-![](Images/^nicole.jpg)
+![](images/^nicole.jpg)
 
 ::: bio-text
 **Nicole Lopez**\
@@ -300,7 +300,7 @@ Nicole’s research integrates biomechanical modelling, behavioural field studie
 ::::
 
 :::: member-block
-![](Images/^dario.jpg)
+![](images/^dario.jpg)
 
 ::: bio-text
 **Dario Moreira-Arce**\
@@ -311,7 +311,7 @@ Dario currently works as a full-time academic (assistant-professor level) at the
 ### Taught MSc and undergraduate students
 
 :::: member-block
-![](Images/^taught.jpg)
+![](images/^taught.jpg)
 
 ::: bio-text
 **Noah Pin, Uma Isselee & Aoibhin McEvoy**\

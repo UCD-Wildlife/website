@@ -1,7 +1,7 @@
 ---
 title: "Contacts & Funders"
 ---
-![](Images/0.jpg){fig-align="center"}
+![](images/0.jpg){fig-align="center"}
 
 ::: {style="text-align: justify;"}
 **Work With Us**  
@@ -11,13 +11,13 @@ If you are interested in joining our team or collaborating on a project, please 
 *O'Brien Centre for Science*  
 *Belfield Campus in Dublin 4, Dublin, Ireland*
 
-![](Images/exploded%20lab%20logo.jpg){fig-align="center"}
+![](images/exploded%20lab%20logo.jpg){fig-align="center"}
 
 **Media & Stakeholder Engagement**      
 We are committed to sharing our research beyond the academic community. We speak regularly with the media and deliver seminars at local, national, and international levels.  
 
 Below are some examples of the media coverage our research has received:  
-![](Images/media.jpg){fig-align="center"}
+![](images/media.jpg){fig-align="center"}
 
 If you are a member of the media or a professional stakeholder:  
 - Contact us to discuss our latest findings.  
