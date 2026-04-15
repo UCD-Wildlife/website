@@ -264,6 +264,17 @@ Aaron is leading a critical research programme aimed at addressing key knowledge
 ### Lab visitors, internships & affiliated members
 
 :::: member-block
+![](images/virg1.jpg)
+
+::: bio-text
+**Virginia Morera-Pujol**\
+Virginia is a former postdoctoral researcher in our group who initially worked on the **SMARTDEER** project before focusing on predicting relative **badger densities** across Ireland. An expert **Bayesian modeler** with a passion for spatial data analysis, she is now an Ad Astra Assistant Professor at the UCD School of Agriculture. Although she currently directs her own research group, Virginia remains a key collaborator in our ongoing work. She serves as co-lead on the **Moving Badgers** project and co-supervises PhD students for both the deerImpact and BioDEERversity2 initiatives.
+:::
+::::
+
+
+
+:::: member-block
 ![](images/^conor.jpeg)
 
 ::: bio-text
@@ -323,7 +334,7 @@ Noah, Uma, and Aoibhin are currently working on their taught MSc final theses, e
 
 ### Former members
 *postdocs*  
-Virginia Morera-Pujol (2021 - 2026)
+Virginia Morera-Pujol (2021 - 2025)
 
 *PhD (VIVA examination year)*  
 Jane Faull (2025), Kim Conteddu (2024), Adam Smith (2024), Prabhleen Kaur (2024), Holly English (2024), Kilian Murphy (2024), Laura Griffin (2022), Bawan Amin (2022), Emma Hart (2020). 
