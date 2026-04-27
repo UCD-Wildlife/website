@@ -61,6 +61,7 @@ title: "Projects"
 ![](images/deerimpact.JPG){fig-align="center" width="50%"}
 
 Building on our previous DAFM-funded projects (SMARTDEER and BioDEERversity), our new multidisciplinary initiative (involving University College Dublin, Maynooth University, Atlantic Technical University, University College Cork) aims to **define national deer population targets** that protect Irish biodiversity while sustaining healthy herds. In collaboration with key stakeholders, we are establishing a **nationwide network of monitoring stations** focused on deer hotspots and multi-species areas (red, sika, and fallow deer). To empower policymakers with empirical data, our methodology includes:  
+
 - **Density Estimation**: Using spatial capture-recapture (faecal DNA) and camera traps to accurately determine deer populations. 
 
 ![](images/CT.JPG){fig-align="center" width="50%"} 
