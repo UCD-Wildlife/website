@@ -47,7 +47,7 @@ study_sites$popup <- paste0(
 
 # 4. Create the leaflet map
 m <- leaflet(study_sites) %>%
-  addProviderTiles(providers$CartoDB.Positron) %>%
+  addTiles() %>%
   
   # Add color-coded pins
   addCircleMarkers(

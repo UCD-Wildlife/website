@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-bibliography: references/works.bib
+bibliography: references/savedrecs.bib
 nocite: '@*'
 csl: https://www.zotero.org/styles/science
 format:
@@ -77,6 +77,7 @@ main {
 </style>
 
 ## Journal Articles
+References automatically imported from Web of Science on 25.09.2027. For full publication records please visit [Google Scholar](https://scholar.google.com/citations?user=trBBuRIAAAAJ&hl=en)  
 
 ::: {.nocite}
 @*

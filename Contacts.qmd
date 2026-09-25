@@ -30,8 +30,9 @@ If you are a member of the media or a professional stakeholder:
 ::: {style="text-align: justify;"}
 **We are grateful for the invaluable support from the following funders:**  
 - Irish Department of Agriculture, Food, and the Marine (DAFM)  
+- Horizon EU Twinning program  
 - University College Dublin  
-- Research Ireland (formely SFI & IRC)  
+- Research Ireland (formely SFI & IRC)   
 - Office of Public Works (OPW)   
 - EU Interreg  
 - Giraffe Conservation Foundation  
