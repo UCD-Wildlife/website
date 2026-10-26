@@ -232,6 +232,15 @@ Sarah is working on the **DeerImpact project** as a research assistant. She is i
 :::
 ::::
 
+:::: member-block
+![](images/^niamh.jpg)
+
+::: bio-text
+**Niamh Collins**\
+Niamh is working on the **MovingBadger** project as a research assistant. She is involved in field activities including camera trapping and helping with badger satellite telemetry as well as desk-based work such as interpretation of camera trap data, data analytics and reporting. She has a broad background being involved in the Phoenix Park Fallow Deer project for the last 5 years while also working on projects ranging from freshwater quality assessment and peatland restoration to Arctic Fox conservation.
+ *funding: DAFM*
+:::
+::::
 
 
 
@@ -317,6 +326,15 @@ Jane completed her PhD with us, investigating **human–deer interactions within
 :::
 ::::
 
+:::: member-block
+![](images/^Ali.jpeg)
+
+::: bio-text
+**Ali Norman**\
+Ali is exploring the **impact of deer** on the wider forest ecosystem, and is particularly interested in exploring potential links between **non-native deer and non-native plants**. She has been working the last few years in Climate and Environmental education, and looks forward to connecting ongoing research with policy changes and effective public engagement for healthier ecosystems. 
+
+:::
+::::
 
 
 ### Taught MSc and undergraduate students
