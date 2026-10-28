@@ -243,6 +243,16 @@ Niamh is working on the **MovingBadger** project as a research assistant. She is
 ::::
 
 
+:::: member-block
+![](images/^sofia.PNG)
+
+::: bio-text
+**Sofía Rodríguez**\
+Sofia joined the **Moving Badgers** team as a research assistant in November 2026. Her role focuses on the badger satellite telemetry data, which she analyses for a scientific publication. She trained in **statistics**, first with a BSc in Applied Statistics at Universidad Complutense de Madrid and then with an MSc in Statistical Data Science at University College Dublin. In previous projects she modelled the presence of the Iberian wolf in Spain and looked at whether weather affects the social networks of GPS-tracked griffon vultures in Sardinia.
+ *funding: DAFM*
+:::
+::::
+
 
 
 ### Lab visitors, internships & affiliated members
